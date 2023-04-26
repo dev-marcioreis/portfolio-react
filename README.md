@@ -6,7 +6,7 @@ Este é meu primeiro porfólio em React.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 React
 
 ## ✒️ Autor
